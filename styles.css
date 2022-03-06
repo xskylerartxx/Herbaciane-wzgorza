@@ -9,7 +9,7 @@
 
 :root{
 	--main-font:"'Mochiy Pop P One', sans-serif";
-	--secondary-font:;
+	--secondary-font: ;
 	--body-font: "Lato Medium";
 	--main-font-color-dark: #58731F;
 	--body-font-color: black;
@@ -183,7 +183,7 @@ html{
 
 
 .headline{
-	font-size: 3vw;
+	font-size: 10px;
 	font-family: "Lato" Bold;
 	color:white;
 	font-weight:100;
@@ -344,7 +344,7 @@ footer{
 	border-radius: 50%;
 }
 
-.back-to-top 1{
+.back-to-top{
 	display: block;
 	color: white;
 	font-size: 2rem;
