@@ -424,7 +424,7 @@ footer{
 
 /*media queries*/
 @media screen and (min-width: 980px){
-	section{padding: 7.9rem;
+	.section{padding: 7.9rem;
 	}
 }
 
